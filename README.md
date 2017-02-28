@@ -25,7 +25,7 @@ public int Get()
 }
 ```
 
-```chsarp
+```csharp
 // Startup.cs
 public void ConfigureServices(IServiceCollection services)
 {
